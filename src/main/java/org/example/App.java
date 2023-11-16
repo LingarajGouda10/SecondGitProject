@@ -13,6 +13,8 @@ class App{
                 Athlete myFav=new Athlete();
                 myFav.player();
                 System.out.println(myFav.batsman + " " + myFav.playerName);
+                System.out.println("for git pull");
+                System.out.println("Thank you");
             }
         }
     }
